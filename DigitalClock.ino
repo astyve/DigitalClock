@@ -17,6 +17,7 @@ const int SELECT_BTN = 7;
 const int SET_BTN = 6;
 
 const int LED_PIN = 12;
+const int GREEN_LED_PIN = 13;
 
 // Global state variable.
 int currentState = S_RUN_CLOCK;
